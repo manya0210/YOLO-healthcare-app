@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.yolo" />
+                  <option name="mobileSdkAppId" value="1:1072279271402:android:800d9fd96800e1a7fbe493" />
+                  <option name="projectId" value="user-login-signup-e1e3e" />
+                  <option name="projectNumber" value="1072279271402" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
