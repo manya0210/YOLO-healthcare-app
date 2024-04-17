@@ -40,6 +40,9 @@ public class UserLoginActivity2 extends AppCompatActivity {
                 }
                 else{
                     Toast.makeText(getApplicationContext(), "Login Success", Toast.LENGTH_SHORT).show();
+                    Intent intent = new Intent(UserLoginActivity2.this, HomeActivity2.class);
+                    startActivity(intent);
+                    finish();
                 }
             }
         });
